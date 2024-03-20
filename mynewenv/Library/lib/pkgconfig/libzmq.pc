@@ -1,0 +1,12 @@
+prefix=c:/Users/prave/Documents/Langchainnew1/mynewenv/Library
+exec_prefix=c:/Users/prave/Documents/Langchainnew1/mynewenv/Library
+libdir=c:/Users/prave/Documents/Langchainnew1/mynewenv/Library/lib
+includedir=c:/Users/prave/Documents/Langchainnew1/mynewenv/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.5
+Libs: -L${libdir} -lzmq
+Libs.private: -lstdc++ 
+Requires.private: 
+Cflags: -I${includedir} 
