@@ -1,4 +1,4 @@
-# Langchainnew1
+# Interactive_Question_Answering_bot
  
 Welcome to our GitHub repository, where we delve into the world of LangChain and Hugging Face, offering a rich collection of examples, tutorials, and insights to empower your AI model building and deployment journey. Suitable for both newcomers and seasoned users, our project is a treasure trove of resources designed to enhance your AI integration process.
 
